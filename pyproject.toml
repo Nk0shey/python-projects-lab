@@ -1,0 +1,10 @@
+[project]
+name = "nikita-python-projects-lab"
+version = "0.1.0"
+description = "Four console applications developed from university Python exercises"
+requires-python = ">=3.10"
+authors = [{name = "Nikita Kozchenko"}]
+dependencies = []
+
+[tool.ruff]
+line-length = 110

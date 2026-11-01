@@ -1,0 +1,11 @@
+S001;Programming;30
+S001;Mathematics;28
+S001;Physics;29
+S002;Programming;24
+S002;Mathematics;0
+S002;Physics;26
+S003;Programming;18
+S003;Mathematics;19
+S003;Physics;19
+invalid row
+S003;InvalidGrade;17

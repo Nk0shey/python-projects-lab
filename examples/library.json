@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "books": [
+    {"titolo": "The Hobbit", "autore": "J. R. R. Tolkien", "anno": 1937, "disponibile": true},
+    {"titolo": "1984", "autore": "George Orwell", "anno": 1949, "disponibile": true},
+    {"titolo": "The Odyssey", "autore": "Homer", "anno": -800, "disponibile": true}
+  ],
+  "members": [
+    {"nome": "Demo Reader", "email": "reader@example.test", "prestiti": []}
+  ]
+}
