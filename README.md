@@ -141,3 +141,7 @@ Tests use isolated temporary directories. They do not change the example files. 
 - `docs/`: rules, design decisions, corrections and source provenance.
 
 This is a student portfolio collection. It demonstrates small local applications; its passing tests do not establish correctness for every input or suitability for production use. See [design notes](docs/DESIGN.md) for boundaries and explicit choices.
+
+## Latest verification
+
+The repository-wide review on 2026-11-02 reran all 60 tests successfully against the GitHub snapshot. No new application-code changes were needed. See [review notes](docs/REVIEW.md).
